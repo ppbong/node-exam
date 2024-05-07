@@ -1,0 +1,14 @@
+{
+  "name": "node-exam",
+  "version": "1.0.0",
+  "description": "node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ppbong",
+  "license": "MIT",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
